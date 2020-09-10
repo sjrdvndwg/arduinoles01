@@ -1,0 +1,15 @@
+{
+  "name": "arduino-les-een",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "S v/d Wege",
+  "license": "",
+  "dependencies": {
+    "johnny-five": "^2.0.0"
+  }
+}
